@@ -1,2 +1,2 @@
 # UL-FSRI-Course-Catalog
-A central location to keep course catalog information, maintenance record and troubleshooting notes.
+One-stop-shop database to keep course inventory information, file location, maintenance records and troubleshooting notes.
